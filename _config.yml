@@ -1,0 +1,14 @@
+layout_spectrum: 0.040593046927824616
+typography_spectrum: 0.06909344322048128
+color:
+  brandStrength: 0.7362814184743911
+  lightness: 0.914634287590161
+  saturation: 0.928721965290606
+  rhythmicContrast: 0.9098266898654401
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: WoofLinks
