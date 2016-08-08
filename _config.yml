@@ -1,4 +1,3 @@
-layout_spectrum: 0.040593046927824616
 typography_spectrum: 0.06909344322048128
 color:
   brandStrength: 0.7362814184743911
@@ -11,5 +10,7 @@ color:
     - '#D07A16'
     - '#864A07'
     - '#800000'
+layout_spectrum: 0.040593046927824616
 name: WoofLinks
+title: WOOFLINKS
 description: It's all about the Dog
